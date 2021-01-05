@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="2954" it="0" lt="2953" ct="2895" ts="1609756882820" s="true" lb="登录" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="1095" sby="544" ng="1" na="1"/>
+<httpSample t="220" it="0" lt="220" ct="154" ts="1609756885803" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="182" it="0" lt="181" ct="0" ts="1609756886028" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="47" it="0" lt="47" ct="0" ts="1609756886246" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="51" it="0" lt="50" ct="0" ts="1609756886296" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="43" it="0" lt="43" ct="0" ts="1609756886351" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="52" it="0" lt="49" ct="0" ts="1609756886396" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="431" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="135" it="0" lt="134" ct="0" ts="1609756886450" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="49" it="0" lt="48" ct="0" ts="1609756886591" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="49" it="0" lt="49" ct="0" ts="1609756886641" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="109" it="0" lt="103" ct="0" ts="1609756886692" s="true" lb="我的课表" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="8921" sby="475" ng="1" na="1"/>
+<httpSample t="108" it="0" lt="108" ct="0" ts="1609756886806" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<sample t="2" it="0" lt="0" ct="0" ts="1609756886932" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="潭州课堂-获取课程 1-1" dt="text" by="527" sby="0" ng="1" na="1"/>
+
+<httpSample t="3035" it="0" lt="3031" ct="2936" ts="1609757683960" s="true" lb="登录" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="1095" sby="544" ng="1" na="1"/>
+<httpSample t="306" it="0" lt="305" ct="183" ts="1609757687022" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="64" it="0" lt="63" ct="0" ts="1609757687342" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="136" it="0" lt="136" ct="0" ts="1609757687408" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="60" it="0" lt="58" ct="0" ts="1609757687548" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="55" it="0" lt="54" ct="0" ts="1609757687611" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="56" it="0" lt="56" ct="0" ts="1609757687669" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="431" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="84" it="0" lt="83" ct="0" ts="1609757687727" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="82" it="0" lt="81" ct="0" ts="1609757687816" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="62" it="0" lt="61" ct="0" ts="1609757687900" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="174" it="0" lt="150" ct="0" ts="1609757687966" s="true" lb="我的课表" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="8921" sby="475" ng="1" na="1"/>
+<httpSample t="114" it="0" lt="110" ct="0" ts="1609757688142" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="431" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<sample t="1" it="0" lt="0" ct="0" ts="1609757688262" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="潭州课堂-获取课程 1-1" dt="text" by="530" sby="0" ng="1" na="1"/>
+
+<httpSample t="2865" it="0" lt="2864" ct="2751" ts="1609763482206" s="true" lb="登录" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="1095" sby="544" ng="1" na="1"/>
+<httpSample t="394" it="0" lt="393" ct="225" ts="1609763485093" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="137" it="0" lt="137" ct="0" ts="1609763485504" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="161" it="0" lt="160" ct="0" ts="1609763485643" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="151" it="0" lt="150" ct="0" ts="1609763485807" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="138" it="0" lt="137" ct="0" ts="1609763485961" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="147" it="0" lt="147" ct="0" ts="1609763486103" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="431" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="155" it="0" lt="155" ct="0" ts="1609763486252" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="154" it="0" lt="153" ct="0" ts="1609763486411" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="188" it="0" lt="188" ct="0" ts="1609763486567" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="136" it="0" lt="131" ct="0" ts="1609763486757" s="true" lb="我的课表" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="8921" sby="475" ng="1" na="1"/>
+<httpSample t="136" it="0" lt="135" ct="0" ts="1609763486898" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="150" it="0" lt="149" ct="0" ts="1609763487038" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="284" it="0" lt="283" ct="154" ts="1609763487191" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="106" it="0" lt="106" ct="0" ts="1609763487477" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="133" it="0" lt="133" ct="0" ts="1609763487586" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="121" it="0" lt="121" ct="0" ts="1609763487722" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="464" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="126" it="0" lt="126" ct="0" ts="1609763487846" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="99" it="0" lt="99" ct="0" ts="1609763487975" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="110" it="0" lt="110" ct="0" ts="1609763488078" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<sample t="3" it="0" lt="0" ct="0" ts="1609763488203" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="潭州课堂-获取课程 1-1" dt="text" by="976" sby="0" ng="1" na="1"/>
+
+<httpSample t="3107" it="0" lt="3105" ct="3029" ts="1609763557035" s="true" lb="登录" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="1095" sby="544" ng="1" na="1"/>
+<httpSample t="324" it="0" lt="321" ct="175" ts="1609763560168" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="181" it="0" lt="180" ct="0" ts="1609763560497" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="127" it="0" lt="126" ct="0" ts="1609763560681" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="151" it="0" lt="151" ct="0" ts="1609763560809" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="129" it="0" lt="129" ct="0" ts="1609763560963" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="175" it="0" lt="175" ct="0" ts="1609763561094" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="431" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="143" it="0" lt="142" ct="0" ts="1609763561271" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="139" it="0" lt="138" ct="0" ts="1609763561416" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="136" it="0" lt="135" ct="0" ts="1609763561556" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="103" it="0" lt="101" ct="0" ts="1609763561693" s="true" lb="我的课表" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="8921" sby="475" ng="1" na="1"/>
+<httpSample t="167" it="0" lt="166" ct="0" ts="1609763561798" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="108" it="0" lt="108" ct="0" ts="1609763561969" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="119" it="0" lt="119" ct="0" ts="1609763562080" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="279" it="0" lt="279" ct="154" ts="1609763562202" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="97" it="0" lt="97" ct="0" ts="1609763562484" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="93" it="0" lt="93" ct="0" ts="1609763562583" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="464" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="97" it="0" lt="96" ct="0" ts="1609763562679" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="117" it="0" lt="117" ct="0" ts="1609763562780" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="132" it="0" lt="131" ct="0" ts="1609763562901" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<sample t="1" it="0" lt="0" ct="0" ts="1609763563041" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="潭州课堂-获取课程 1-1" dt="text" by="976" sby="0" ng="1" na="1"/>
+
+<httpSample t="2821" it="0" lt="2820" ct="2760" ts="1609826075264" s="true" lb="登录" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="1095" sby="544" ng="1" na="1"/>
+<httpSample t="316" it="0" lt="316" ct="161" ts="1609826078107" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="140" it="0" lt="139" ct="0" ts="1609826078430" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="138" it="0" lt="138" ct="0" ts="1609826078572" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="137" it="0" lt="136" ct="0" ts="1609826078712" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="163" it="0" lt="163" ct="0" ts="1609826078850" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="132" it="0" lt="132" ct="0" ts="1609826079016" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="431" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="156" it="0" lt="155" ct="0" ts="1609826079150" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="119" it="0" lt="118" ct="0" ts="1609826079309" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="147" it="0" lt="146" ct="0" ts="1609826079430" s="true" lb="添加课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="118" it="0" lt="114" ct="0" ts="1609826079579" s="true" lb="我的课表" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="8921" sby="475" ng="1" na="1"/>
+<httpSample t="128" it="0" lt="127" ct="0" ts="1609826079702" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="125" it="0" lt="125" ct="0" ts="1609826079831" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="110" it="0" lt="109" ct="0" ts="1609826079959" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="95" it="0" lt="95" ct="0" ts="1609826080072" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="308" it="0" lt="308" ct="169" ts="1609826080170" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="143" it="0" lt="142" ct="0" ts="1609826080482" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="139" it="0" lt="138" ct="0" ts="1609826080628" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="121" it="0" lt="120" ct="0" ts="1609826080770" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="464" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="128" it="0" lt="127" ct="0" ts="1609826080893" s="true" lb="删除课程" rc="200" rm="" tn="潭州课堂-获取课程 1-1" dt="text" by="650" sby="463" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<sample t="3" it="0" lt="0" ct="0" ts="1609826081038" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="潭州课堂-获取课程 1-1" dt="text" by="976" sby="0" ng="1" na="1"/>
+
+</testResults>
